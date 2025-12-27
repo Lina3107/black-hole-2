@@ -166,8 +166,8 @@
 @media (max-width: 768px) {
   .right-topline {
     top: 10%;
-    left: 55%;
-    width: min(92%, 70vw);
+    left: 40%;
+    width: min(70%, 70vw);
     gap: 2vw;
     white-space: normal;
     flex-wrap: wrap;
